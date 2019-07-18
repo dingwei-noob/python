@@ -9,3 +9,5 @@ str_int = int(str_usd)
 result = str_int * 6.9
 # 3结果输出
 print(result)
+呵呵
+
